@@ -2,8 +2,6 @@
 
 @(技术)[nosql, mongodb, redis, scylla, stress-test]
 
-[TOC]
-
 ## 1. 概述
 
 本次压测数据 1000 万, 线程 100 个, 客户端到服务端模式, 工具是 **YCSB**
